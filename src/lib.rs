@@ -1,5 +1,7 @@
-mod window;
+mod state;
 mod texture;
+mod camera;
+mod instance;
 
 pub mod entry;
 

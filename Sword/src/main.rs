@@ -1,5 +1,5 @@
-use Excaliber::test as ts;
+use Excaliber::start;
 
 fn main() {
-    ts::hello();
+    start();
 }
